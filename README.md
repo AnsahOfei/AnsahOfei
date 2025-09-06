@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on open-source projects related to **cybersecurity,telecom engineering, computer networks, video game development**.
 - 💬 Ask me about **C++, Excel**.
 - 📫 How to reach me: [ansahofei.kwadwo@gmail.com](ansahofei.kwadwo@gmail.com)
-- 😄 Pronouns: He/Him- ⚡ Fun fact: I can solve a Rubik's Cube in under a minute!
+- 😄 Pronouns: He/Him
 
 ---
 
@@ -21,7 +21,6 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnsahOfei/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="C++" /></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnsahOfei/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="Power BI" /></a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnsahOfei/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Excel" /></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnsahOfei/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="C+++" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnsahOfei/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AnsahOfei/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="SQL" /></a>
 </p>
